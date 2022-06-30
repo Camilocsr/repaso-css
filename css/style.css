@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: crimson;
+    color: magenta;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    color: blue;
+    font-size: 30px;
+}
+
+.rojo{
+    color: red;
+}
+
+.morado{
+    color: rebeccapurple;
+}
+
+.green{
+    color: green;
+}
+
+.purple{
+    color: purple;
+}
